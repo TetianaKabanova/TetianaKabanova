@@ -20,7 +20,7 @@
 - 🎮 My hobbies are fitness, joggen, reading, сooking😊
 - 💌 You can reach me by tetianakabanova5@gmail.com
 - 🌈 My dream is live my best life 💯
-- [![LinkedIn-Logo wine](https://github.com/TetianaKabanova/TetianaKabanova/assets/110104725/cae6ddc4-e392-4830-bc18-1aa1b2d8e070)](https://www.linkedin.com/in/TetianaKabanova)
+- [![LinkedIn-Logo wine](https://github.com/TetianaKabanova/TetianaKabanova/assets/110104725/cae6ddc4-e392-4830-bc18-1aa1b2d8e070)](www.linkedin.com/in/tetiana-kabanova)
 
 ## 💻 Work Experience
 | Company | Years | Position | Stack |
