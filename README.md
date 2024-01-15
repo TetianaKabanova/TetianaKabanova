@@ -12,7 +12,7 @@
 
 - 🎨 My latest project is [TaskFusion 📆](https://tarasdeveloper.github.io/TaskFusion-frontend/)
 - 💻 Take a look at my another project [Cinemania 📺](https://tetianakabanova.github.io/Cinemania/)
-- 🍨 This project can be also interesting [Ice-cream 🍧](https://github.com/TetianaKabanova/Ice-cream)
+- 🍨 This project can be also interesting [Ice-cream 🍧](https://tetianakabanova.github.io/Ice-cream/)
 
 ## 💡 About Me
 
