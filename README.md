@@ -1,8 +1,8 @@
-**<p align="center"># Welcome to my GitHub profile 👋</p>**
+**<p align="center"> Welcome to my GitHub profile 👋</p>**
 
 
-**<p align="center">## 🏠 My name is Tetiana Kabanova 👩</p>**
-**<p align="center">### I am a future Full Stack Developer and I love fitness🏃</p>**
+**<p align="center"> 🏠 My name is Tetiana Kabanova 👩</p>**
+**<p align="center"> I am a future Full Stack Developer and I love fitness🏃</p>**
 
 
 ![How-to-Become-a-Full-Stack-Developer-2-1024x576](https://github.com/TetianaKabanova/TetianaKabanova/assets/110104725/947df119-6b18-4e61-8aff-acf416d6db37)
@@ -11,7 +11,7 @@
 ## 📲 My Links
 
 - 🎨 My latest project is [TaskFusion 📆](https://tarasdeveloper.github.io/TaskFusion-frontend/)
-- 💻 Take a look at my another project [Cinemania 📺](https://github.com/TetianaKabanova/Cinemania)
+- 💻 Take a look at my another project [Cinemania 📺](https://tetianakabanova.github.io/Cinemania/)
 - 🍨 This project can be also interesting [Ice-cream 🍧](https://github.com/TetianaKabanova/Ice-cream)
 
 ## 💡 About Me
